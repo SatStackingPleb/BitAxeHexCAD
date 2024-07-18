@@ -5,7 +5,8 @@ If you find it useful, a few sats for my time to put this together would be grea
 
 ⚡ satstackingpleb@pay.structur3.io ⚡
 
-![image](https://github.com/user-attachments/assets/063f3ad0-ea17-40f3-8e5f-ea7399d807a5)
+![image](https://github.com/user-attachments/assets/7a00614a-3ba5-44d2-9d51-88beada39b0e)
+
 
 
 BitAxeHex Source: https://github.com/skot/bitaxeHex
