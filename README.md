@@ -4,6 +4,7 @@ Exported the board KiCAD from official Github and added heatsink, display, and p
 If you find it useful, a few sats for my time to put this together would be greatly appreciated. 
 
 ⚡ satstackingpleb@pay.structur3.io ⚡
+
 ![image](https://github.com/user-attachments/assets/063f3ad0-ea17-40f3-8e5f-ea7399d807a5)
 
 
