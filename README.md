@@ -1,5 +1,7 @@
 # BitAxeHexCAD
-Exported the board KiCAD from official Github and added heatsink, display, and power terminals for current best approximations to build around. In BitAxe fashion, I am posting this for others to use. 
+Exported the board KiCAD from official Github and added heatsink, display, and power terminals for current best approximations to build around. 
+
+The multichip projects intrigue me very much and I think this is where we can get real creative with cooling and enclosure configurations.
 
 If you find it useful, a few sats for my time to put this together would be greatly appreciated. 
 
